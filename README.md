@@ -8,10 +8,6 @@ long before the diploma. I write Python automation and apps, build in C when I w
 
 Currently working on building custom apps to integrate on my homelab, creating automation scripts for my server and developing custom TUI and CLI tools for my Arch Thinkpad.
 
-
-
-
-
 >**Languages** 
 >
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -39,11 +35,13 @@ Currently working on building custom apps to integrate on my homelab, creating a
 ---
  
 ## Homelab
-A basic homelab running on an old laptop connected directly to an old Cisco 1800 router.<br>
+A basic homelab running on an old laptop connected directly to an old Cisco 1841 router.<br>
 Here I run all my services and self-made apps for my own usage.
 
 Running on **Debian 13 headless** with nginx as reverse proxy for https and docker managing all
-service containers
+service containers.<br>
+Specs: 20GB of RAM, quadcore Ryzen processor and 256GB SSD + 1TB HDD.
+
  
 #### Main services
 > **Gitea**<br>
@@ -52,16 +50,15 @@ service containers
 > **Portainer**<br>
 > To manage all my container services
 
-> **OxiCloud**<br>
-> Cloud storage, calendar and contact management
+> **Nextcloud**<br>
+> Cloud storage, file editing... Personal drive
 
 > **Navidrome**<br>
 > Music streaming, lossless
  
+---
  
- 
-## Featured projects
- 
+## Featured projects 
  
 ### Babel-OS
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -76,7 +73,6 @@ Running 24/7 on my homelab, 99% uptime.
  
 [View repo →](https://github.com/karch00/babel-os)
  
-
 ### Taquin
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
@@ -84,7 +80,6 @@ Simple student TUI game built using raw C in under a week. Uses ANSI codes and t
 Required some system research to understand and apply TTY and OS notions.
  
 [View repo →](https://github.com/karch00/taquin)
- 
  
 ### KTOS
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
