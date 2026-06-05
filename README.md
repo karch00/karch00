@@ -44,17 +44,23 @@ Specs: 20GB of RAM, quadcore Ryzen processor and 256GB SSD + 1TB HDD.
 
  
 #### Main services
-> **Gitea**<br>
+> **Forgejo**<br>
 > For my more personal repositories and basic and fast file management
 
-> **Portainer**<br>
-> To manage all my container services
+> **n8n**<br>
+> Workflow automation, homelab-related mainly
 
 > **Nextcloud**<br>
 > Cloud storage, file editing... Personal drive
 
 > **Navidrome**<br>
 > Music streaming, lossless
+
+> **Vaultwarden** <br>
+> Password manager, bitwarden compatible
+
+> **Craftycontroller** <br>
+> To host minecraft servers with friends with shared dashboard
  
 ---
  
@@ -95,4 +101,3 @@ personal learning and experience. Slowed down due to studies.
  
 - Deeper CI/CD pipelines
 - Rustlang (for TUI and CLI tools)
-- Deepening docker knowledge
