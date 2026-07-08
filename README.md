@@ -4,7 +4,8 @@
 [Email](mailto:pablo.andre-benito.etu@univ-lille.fr)
  
 I'm a DEUST student in France, but I've been building and deploying real systems
-long before the diploma. I write Python automation and apps, build in C when I want efficency and run a self-hosted homelab on headless Debian.
+long before the diploma. I write Python automation and apps, build in C when I want efficency. 
+I run a self-hosted homelab on headless Debian for all my pesonal needs.
 
 Currently working on building custom apps to integrate on my homelab, creating automation scripts for my server and developing custom TUI and CLI tools for my Arch Thinkpad.
 
