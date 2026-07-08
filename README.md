@@ -8,7 +8,7 @@ long before the diploma. I write Python automation and apps, build in C when I w
 
 Currently working on building custom apps to integrate on my homelab, creating automation scripts for my server and developing custom TUI and CLI tools for my Arch Thinkpad.
 
->[!NOTE] Languages 
+> **Languages** 
 >
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 > ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
