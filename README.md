@@ -19,8 +19,7 @@ I am a student @Université de Lille on the **DEUST Infrastructures Numeriques**
 **Computer Science** and **Systems Development**.
 
 I pass my day-to-day maintaining my homelab, coding for my personal projects and learning computer science & system
-development by myself.<br>
-I also deeply enjoy playing factory building games, simulation games and reading about Arknight's world.
+development by myself. I also deeply enjoy playing factory building games, simulation games and reading about Arknight's world.
 
 My plans for the future are finishing a **Licence en informatique** and go for a **PhD in Computer Science** contributing
 on the field along the way.<br>
