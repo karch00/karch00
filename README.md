@@ -24,7 +24,6 @@ I also deeply enjoy playing factory building games, simulation games and reading
 
 My plans for the future are finishing a **Licence en informatique** and go for a **PhD in Computer Science** contributing
 on the field along the way.<br>
-Getting experience and contributing on the field via work is also in my to-do list!
 
 Feel free to contact me to get to know me or for further information!
  
@@ -89,11 +88,11 @@ For more info on each service, visit the repo.
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 Built using the **discord.py** python library alongside **asyncpg** for async database handling.<br>
-Created a custom-built asynchronous logging system for better debugging and event managing, alongisde
-a system of sentinels and signals to better manage function returns. Completely modular, although development paused.<br>
+Created a custom-built asynchronous logging system for better debugging and event managing, alongside
+a system of sentinels and signals to better manage function returns. Completely modular, development planned to be retaken.<br>
 Running 24/7 on my homelab, 99% uptime.
 
-Worth mentioning PostgreSQL and SQL since I had to work with databases, but I am not confiden with the technology yet.<br>
+Worth mentioning PostgreSQL and SQL since I had to work with databases, but I am not confident with the technology yet.<br>
 
  
 ### [[ Taquin ]](https://github.com/karch00/taquin)
