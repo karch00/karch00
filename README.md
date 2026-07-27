@@ -1,70 +1,77 @@
 <div align="center"> 
 
 ![Header](./assets/header-banner.png) 
-[[ <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" height="16" align="absmiddle" /> Linkedin ]](https://www.linkedin.com/in/pablo-andre-7b1138373)
-[[ <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/mailflow-sh.svg" height="16" align="absmiddle" /> Email ]](mailto:pablo.andre-benito.etu@univ-lille.fr)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3500&pause=1000&color=FAFAFA&center=true&vCenter=true&width=980&lines=Aspiring+systems+developer;CS+student;Proud+homelab+maintainer;Avid+Arknights+fan" alt="Typing SVG" /></a>
 
 <img src="https://terminal-identity-opal.vercel.app/api?name=Pablo+Andre&username=karch00&role=CS+%26+Systems+student&tagline=Daring+to+apply&status=Available+for+anything%21&command=cargo+run+github-profile&theme=obsidian%2Fgraphite&avatar=KH&pattern=pulse&width=980&height=auto&accent=%23e0bc0e&showLangs=on&showContribs=on&stats=repos%2Cfollowers&excludeLangs=css%2Clua%2Chtml%2Cjavascript%2Cqml%2Cglsl&langStyle=icons&iconSize=lg&motion=pulse&contribTheme=firefly&contribRange=9m&contribMode=focus&bio=I+am+an+aspiring+systems+developer+from+Lille%2C+currently+studying+networking+%40+Université+de+Lille." width="100%" alt="Terminal identity card" />
 
+[[ <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" height="16" align="absmiddle" /> Linkedin ]](https://www.linkedin.com/in/pablo-andre-7b1138373)
+[[ <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/mailflow-sh.svg" height="16" align="absmiddle" /> Email ]](mailto:pablo.andre-benito.etu@univ-lille.fr)
+
 </div>
 
-<div align="center">
 
-![Header](./assets/aboutme-banner.png)
+
+<img src="./assets/aboutme-banner.png" align="center" alt="About Me">
+
 ---
-
-</div>
 
 I am a student @Université de Lille on the **DEUST Infrastructures Numeriques** studying networking as bridge towards
 **Computer Science** and **Systems Development**.
 
 I pass my day-to-day maintaining my homelab, coding for my personal projects and learning computer science & system
-development by myself. I also deeply enjoy playing factory building games, simulation games and reading about Arknight's world.
+development by myself in complete autonomy. 
+I also deeply enjoy playing factory building games, simulation games and reading about Arknight's world.
 
-My plans for the future are finishing a **Licence en informatique** and go for a **PhD in Computer Science** contributing
+My plans for the future involve a **Licence en informatique** and going for a **PhD in Computer Science** contributing
 on the field along the way.<br>
 
 Feel free to contact me to get to know me or for further information!
  
-<div align="center">
 
-![Header](./assets/myskills-banner.png)
+
+<img src="./assets/myskills-banner.png" align="center" alt="My Skills">
+
 ---
 
-</div>
+<img src="./assets/languages.png" height=32 alt="Languages"><br>
+**Languages I am most comfortable working with. Projects made mostly with these.**
 
-### [ Languages ]
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br>
-Most proficient with - Use daily for automation scripts, small app building, discord bots...
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=red)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br>
-Intermediate level - Use it for pure performance, mostly CLI tools.
+<img src="./assets/devtools.png" height=32 alt="Dev Tools"><br>
+**Development tools I use daily and involve in most of my projects.**
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)<br>
-Currently learning - Soon to-be daily driver for systems development and memory safety-dependent software.
+![Zed](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)<br>
-Occasional use - For simpler automation than python where using commands and running the script very frequently is expected
+<img src="./assets/infrastructure.png" height=32 alt="Infrastructure"><br>
+**Infrastructure technologies I regularly use and maintain.**
 
-### [ Technologies ]
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br>
-Daily work driver - Arch on my thinkpad for latest releases and customizability, Debian on my homelab for stability.
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)<br>
-Homelab containers - Use it in my homelab to host multiple containers with a service each aswell as making my own images.
+<img src="./assets/environment.png" height=32 alt="Environments"><br>
+**Development environments I use depending on the goal.**
 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)<br>
-Reverse proxy - Running multiple server blocks listening on a servername and redirecting towards an external container port.
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<div align="center">
 
-![Header](./assets/featuredprojects-banner.png)
+
+<img src="./assets/featuredprojects-banner.png" align="center" alt="Featured Projects">
+
 ---
-
-</div>
  
 ### [[ Homelab ]](https://github.com/karch00/homelab-containers)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
@@ -79,9 +86,6 @@ Nginx serves as a reverse proxy, listening on the server name and redirecting to
 50x errors are handled via redirection towards a plain html unavailable page.<br>
 For more info on each service, visit the repo.
 
-
-
-
 ### [[ Babel-OS ]](https://github.com/karch00/babel-os)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -92,7 +96,6 @@ a system of sentinels and signals to better manage function returns. Completely 
 Running 24/7 on my homelab, 99% uptime.
 
 Worth mentioning PostgreSQL and SQL since I had to work with databases, but I am not confident with the technology yet.<br>
-
  
 ### [[ Taquin ]](https://github.com/karch00/taquin)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
