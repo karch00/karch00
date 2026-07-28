@@ -21,14 +21,17 @@
 ---
 
 I am a student @Université de Lille on the **DEUST Infrastructures Numeriques** studying networking as bridge towards
-**Computer Science** and **Systems Development**.
+**Computer Science** and **Systems Development**.<br>
+My academic plans for the future involve starting and completing a **Bachelors in CS** 
+and finishing off by going for a **PhD in Computer Science**, contributing on the field along the way.
 
-I pass my day-to-day maintaining my personal homelab, coding for my personal projects and learning computer science & system
-development by myself in complete autonomy. 
-I also deeply enjoy playing factory building games, simulation games and reading about Arknight's world.
+I love passing my day-to-day maintaining my personal homelab: looking for new services, optimizing the existing ones..., 
+coding personal projects such as discord bots or little scripts, and learning computer science & system development by myself 
+in complete autonomy by completing roadmaps, applying what I learn and completing leetcode problems.
 
-My plans for the future involve a **Licence en informatique** and going for a **PhD in Computer Science** contributing
-on the field along the way.<br>
+I am also deeply involved in playing factory building games, simulation games and specially playing and reading about Arknights'
+world. I am a fan of the game(s) and find the story behind it a great parallel to the history of our world with a touch of fantasy and
+sci-fi.
 
 Feel free to contact me to get to know me or for further information!
  
