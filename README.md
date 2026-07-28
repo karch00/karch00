@@ -6,10 +6,13 @@
 
 <img src="https://terminal-identity-opal.vercel.app/api?name=Pablo+Andre&username=karch00&role=CS+%26+Systems+student&tagline=Learning+by+building&command=cargo+run+github-profile&theme=obsidian%2Fgraphite&avatar=KH&pattern=pulse&width=980&height=auto&accent=%23e0bc0e&showLangs=on&showContribs=on&stats=repos%2Cfollowers&excludeLangs=css%2Clua%2Chtml%2Cjavascript%2Cqml%2Cglsl&langStyle=icons&iconSize=lg&motion=pulse&contribTheme=firefly&contribRange=9m&contribMode=focus" width="100%" alt="Terminal identity card" />
 
-[[ <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" height="16" align="absmiddle" /> Linkedin ]](https://www.linkedin.com/in/pablo-andre-7b1138373)
-[[ <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/mailflow-sh.svg" height="16" align="absmiddle" /> Email ]](mailto:pablo.andre-benito.etu@univ-lille.fr)
+[<img src="./assets/linkedin.png" height="26" align="absmiddle" />](https://www.linkedin.com/in/pablo-andre-7b1138373)
+[<img src="./assets/email.png" height="26" align="absmiddle" />](mailto:pablo.andre-benito.etu@univ-lille.fr)
+<img src="./assets/discord.png" height="26" align="absmiddle" />
+[<img src="./assets/arknights.png" height="26" align="absmiddle" />](https://www.krooster.com/u/khloi)
 
 </div>
+
 
 
 
@@ -20,7 +23,7 @@
 I am a student @Université de Lille on the **DEUST Infrastructures Numeriques** studying networking as bridge towards
 **Computer Science** and **Systems Development**.
 
-I pass my day-to-day maintaining my homelab, coding for my personal projects and learning computer science & system
+I pass my day-to-day maintaining my personal homelab, coding for my personal projects and learning computer science & system
 development by myself in complete autonomy. 
 I also deeply enjoy playing factory building games, simulation games and reading about Arknight's world.
 
