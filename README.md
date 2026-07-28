@@ -83,7 +83,7 @@ Feel free to contact me to get to know me or for further information!
 
 Personal server running on an old Lenovo V155-15API laptop.<br>
 Features a modest AMD Ryzen 5 3500U with 18GB DDR4 RAM and a 256GB NVMe for the OS and quick-access data + 
-1TB HDD for persistent data and stockage. Connected via Cat5e to my home router, previously bridged to a Cisco 1800
+1TB HDD for persistent data and storage. Connected via Cat5e to my home router, previously bridged to a Cisco 1800
 fully configured with a subnet + NAT.
 
 Runs Debian headless with a minimal configuration to reduce overhead consumption. SSH configured to a non-default port with
