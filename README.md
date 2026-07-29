@@ -23,7 +23,7 @@
 I am a student @Université de Lille on the **DEUST Infrastructures Numeriques** studying networking as bridge towards
 **Computer Science** and **Systems Development**.<br>
 My academic plans for the future involve starting and completing a **Bachelors in CS** 
-and finishing off by going for a **PhD in Computer Science**, contributing on the field along the way.
+and finishing off by going for a **PhD in Computer Science**, contributing to the field along the way.
 
 I love passing my day-to-day maintaining my personal homelab: looking for new services, optimizing the existing ones..., 
 coding personal projects such as discord bots or little scripts, and learning computer science & system development by myself 
@@ -34,7 +34,7 @@ world. I am a fan of the game(s) and find the story behind it a great parallel t
 sci-fi.
 
 Feel free to contact me to get to know me or for further information!
- 
+
 
 
 <img src="./assets/myskills-banner.png" align="center" alt="My Skills">
@@ -83,7 +83,7 @@ Feel free to contact me to get to know me or for further information!
 
 Personal server running on an old Lenovo V155-15API laptop.<br>
 Features a modest AMD Ryzen 5 3500U with 18GB DDR4 RAM and a 256GB NVMe for the OS and quick-access data + 
-1TB HDD for persistent data and storage. Connected via Cat5e to my home router, previously bridged to a Cisco 1800
+1TB HDD for persistent data and storage. Connected via an RJ45 Cat5e to my home router, previously bridged through a Cisco 1800
 fully configured with a subnet + NAT.
 
 Runs Debian headless with a minimal configuration to reduce overhead consumption. SSH configured to a non-default port with
@@ -98,7 +98,7 @@ For more info on each service, visit the repo.
 
 Built using the **discord.py** python library alongside **asyncpg** for async database handling.<br>
 Created a custom-built asynchronous logging system for better debugging and event managing, alongside
-a system of sentinels and signals to better manage function returns. Completely modular, development planned to be retaken.<br>
+a system of sentinels and signals to better manage function returns. Completely modular, development planned to be resumed.<br>
 Running 24/7 on my homelab, 99% uptime.
 
 Worth mentioning PostgreSQL and SQL since I had to work with databases, but I am not confident with the technology yet.<br>
