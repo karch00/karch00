@@ -9,7 +9,6 @@
 [<img src="./assets/linkedin.png" height="26" align="absmiddle" />](https://www.linkedin.com/in/pablo-andre-7b1138373)
 [<img src="./assets/email.png" height="26" align="absmiddle" />](mailto:pablo.andre-benito.etu@univ-lille.fr)
 <img src="./assets/discord.png" height="26" align="absmiddle" />
-[<img src="./assets/arknights.png" height="26" align="absmiddle" />](https://www.krooster.com/u/khloi)
 
 </div>
 
