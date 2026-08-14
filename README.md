@@ -101,6 +101,16 @@ a system of sentinels and signals to better manage function returns. Completely 
 Running 24/7 on my homelab, 99% uptime.
 
 Worth mentioning PostgreSQL and SQL since I had to work with databases, but I am not confident with the technology yet.<br>
+
+### [[ MusicDL ]](https://github.com/karch00/musicdl)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+A **[yt-dlp](https://github.com/yt-dlp/yt-dlp) wrapper** to help me download music in bulk while adding metadata automatically to drag-and-drop into mynavidrome container music volume for personal streaming.
+
+Supports both spotify and youtube URLs, although download is strictly from youtube regardless, spotify serves as a
+metadata proxy.<br>
+Reads a **xml-like** formatted file to know which metadata to apply to each song. Syntax is simple and custom-made, parsed
+using **regex expressions**.
  
 ### [[ Taquin ]](https://github.com/karch00/taquin)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
