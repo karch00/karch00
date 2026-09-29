@@ -2,7 +2,7 @@
 
 ![Header](./assets/header-banner.png) 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3500&pause=1000&color=FAFAFA&center=true&vCenter=true&width=980&lines=Aspiring+systems+developer;Daring+CS+student;Proud+homelab+maintainer;Curious learner" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3500&pause=1000&color=FAFAFA&center=true&vCenter=true&width=980&lines=Aspiring+systems+developer;Daring+CS+student;Proud+homelab+maintainer;Curious+learner" alt="Typing SVG" /></a>
 
 <img src="https://terminal-identity-opal.vercel.app/api?name=Pablo+Andre&username=karch00&role=CS+%26+Systems+student&tagline=Learning+by+building&command=cargo+run+github-profile&theme=obsidian%2Fgraphite&avatar=KH&pattern=pulse&width=980&height=auto&accent=%23e0bc0e&showLangs=on&showContribs=on&stats=repos%2Cfollowers&excludeLangs=css%2Clua%2Chtml%2Cjavascript%2Cqml%2Cglsl&langStyle=icons&iconSize=lg&motion=pulse&contribTheme=firefly&contribRange=9m&contribMode=focus" width="100%" alt="Terminal identity card" />
 
