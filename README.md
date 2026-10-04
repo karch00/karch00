@@ -7,7 +7,7 @@
 <img src="https://terminal-identity-opal.vercel.app/api?name=Pablo+Andre&username=karch00&role=CS+%26+Systems+student&tagline=Learning+by+building&command=cargo+run+github-profile&theme=obsidian%2Fgraphite&avatar=KH&pattern=pulse&width=980&height=auto&accent=%23e0bc0e&showLangs=on&showContribs=on&stats=repos%2Cfollowers&excludeLangs=css%2Clua%2Chtml%2Cjavascript%2Cqml%2Cglsl&langStyle=icons&iconSize=lg&motion=pulse&contribTheme=firefly&contribRange=9m&contribMode=focus" width="100%" alt="Terminal identity card" />
 
 [<img src="./assets/linkedin.png" height="26" align="absmiddle" />](https://www.linkedin.com/in/pablo-andre-7b1138373)
-[<img src="./assets/email.png" height="26" align="absmiddle" />](mailto:pablo.andre-benito.etu@univ-lille.fr)
+[<img src="./assets/email.png" height="26" align="absmiddle" />](mailto:karch00@proton.me)
 <img src="./assets/discord.png" height="26" align="absmiddle" />
 
 </div>
