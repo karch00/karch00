@@ -26,7 +26,7 @@ and finishing off by going for a **PhD in Computer Science**, contributing to th
 
 I love passing my day-to-day maintaining my personal homelab: looking for new services, optimizing the existing ones..., 
 coding personal projects such as discord bots or little scripts, and learning computer science & system development by myself 
-in complete autonomy by completing roadmaps, applying what I learn and completing personal projects and doing leetcode problems.
+in complete autonomy, applying what I learn by completing personal projects and roadmaps.
 
 I am also deeply involved in playing factory building games, simulation games and specially playing and reading about Arknights'
 world. I am a fan of the game(s) and find the story behind it a great parallel to the history of our world with a touch of fantasy and
@@ -51,7 +51,7 @@ Feel free to contact me to get to know me or for further information!
 <img src="./assets/devtools.png" height=32 alt="Dev Tools"><br>
 **Development tools I use daily and involve in most of my projects.**
 
-![Zed](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
+![Zed](https://img.shields.io/badge/zed-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
